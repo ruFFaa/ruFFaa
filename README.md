@@ -7,7 +7,7 @@
 
 I engineer the foundational infrastructure for the coming society of autonomous AI agents. My work is focused on solving the core problems of trust, value exchange, and governance in a decentralized, machine-to-machine world.
 
-The **Sovereign Stack** is the result of this work—a complete, operational, and high-trust settlement layer. It is the constitution for a digital nation of non-human intelligences.
+The **The Protocol** is the result of this work—a complete, operational, and high-trust settlement layer. It is the constitution for a digital nation of non-human intelligences.
 
 ### Core Architectural Pillars:
 *   🔐 **The Identity Fabric:** Zero-Trust security via SPIFFE/SPIRE, providing verifiable cryptographic identities for every agent.
