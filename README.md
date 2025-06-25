@@ -14,7 +14,7 @@ The **The Protocol** is the result of this work—a complete, operational, and h
 *   🌐 **The Federated Registry:** A decentralized discovery network of sovereign agent marketplaces.
 *   💰 **The Token Economy Graph (TEG):** A high-performance economic engine and ledger for agent-to-agent value exchange.
 
-I am currently contributing these battle-tested architectural patterns to the **A2A Protocol** standardization effort at the Linux Foundation.
+I am contributing these proven architectural patterns to the A2A Protocol discussion as it formalizes under the Linux Foundation.
 
 *   📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/raphaeljeziorny/)
 *   🔭 I’m currently working on scaling the agent economy.
